@@ -1,4 +1,5 @@
-# My Notes and Code for learning PyTorch for deep learning, neural networks, machine learning, etc... [Link to youtube tutorial](https://www.youtube.com/watch?v=Z_ikDlimN6A&t)
+# My Notes and Code for learning PyTorch.
+# all credit to [Daniel Bourke](https://www.youtube.com/@mrdbourke) for creating this [amazing Tutorial](https://www.youtube.com/watch?v=Z_ikDlimN6A&t)
 ## 1. PyTorch Fundamentals
 - started on 25 - 01 - 2025
 * Learning about Matrices and Tensors
